@@ -161,6 +161,20 @@
       </td>
       <td style="text-align:left">&#x421;&#x43D;&#x44F;&#x442;&#x44C; &#x431;&#x430;&#x43D; &#x441; &#x438;&#x433;&#x440;&#x43E;&#x43A;&#x430;</td>
     </tr>
+    <tr>
+      <td style="text-align:left"><code>/inv [&#x43D;&#x438;&#x43A;]</code>
+      </td>
+      <td style="text-align:left">&#x412;&#x437;&#x430;&#x438;&#x43C;&#x43E;&#x434;&#x435;&#x439;&#x441;&#x442;&#x432;&#x438;&#x435;
+        &#x441; &#x438;&#x43D;&#x432;&#x435;&#x43D;&#x442;&#x430;&#x440;&#x435;&#x43C;
+        &#x438;&#x433;&#x440;&#x43E;&#x43A;&#x430;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>/ender [&#x43D;&#x438;&#x43A;]</code>
+      </td>
+      <td style="text-align:left">&#x412;&#x437;&#x430;&#x438;&#x43C;&#x43E;&#x434;&#x435;&#x439;&#x441;&#x442;&#x432;&#x438;&#x435;
+        &#x441; &#x44D;&#x43D;&#x434;&#x435;&#x440; &#x441;&#x443;&#x43D;&#x434;&#x443;&#x43A;&#x43E;&#x43C;
+        &#x438;&#x433;&#x440;&#x43E;&#x43A;&#x430;</td>
+    </tr>
   </tbody>
 </table>
 
