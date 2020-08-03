@@ -189,12 +189,54 @@
 
 ### Команды бога
 
-| Команды + примеры | Описание |
-| :--- | :--- |
-| `/trade minimal [цена]` | Задать минимальную цену предмету в руке |
-| `/trade minimal [цена] *` | Если у предмета имеется прочность или режимы |
-| `/bound add [id сервера]` | Запретить предмет в руках на сервере |
-| `/bound add 0` | Запретить предмет в руках на всех серверах |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&#x41A;&#x43E;&#x43C;&#x430;&#x43D;&#x434;&#x44B; + &#x43F;&#x440;&#x438;&#x43C;&#x435;&#x440;&#x44B;</th>
+      <th
+      style="text-align:left">&#x41E;&#x43F;&#x438;&#x441;&#x430;&#x43D;&#x438;&#x435;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><code>/trade minimal [&#x446;&#x435;&#x43D;&#x430;]</code>
+      </td>
+      <td style="text-align:left">&#x417;&#x430;&#x434;&#x430;&#x442;&#x44C; &#x43C;&#x438;&#x43D;&#x438;&#x43C;&#x430;&#x43B;&#x44C;&#x43D;&#x443;&#x44E;
+        &#x446;&#x435;&#x43D;&#x443; &#x43F;&#x440;&#x435;&#x434;&#x43C;&#x435;&#x442;&#x443;
+        &#x432; &#x440;&#x443;&#x43A;&#x435;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>/trade minimal [&#x446;&#x435;&#x43D;&#x430;] *</code>
+      </td>
+      <td style="text-align:left">&#x415;&#x441;&#x43B;&#x438; &#x443; &#x43F;&#x440;&#x435;&#x434;&#x43C;&#x435;&#x442;&#x430;
+        &#x438;&#x43C;&#x435;&#x435;&#x442;&#x441;&#x44F; &#x43F;&#x440;&#x43E;&#x447;&#x43D;&#x43E;&#x441;&#x442;&#x44C;
+        &#x438;&#x43B;&#x438; &#x440;&#x435;&#x436;&#x438;&#x43C;&#x44B;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>/bound add [id &#x441;&#x435;&#x440;&#x432;&#x435;&#x440;&#x430;]</code>
+      </td>
+      <td style="text-align:left">&#x417;&#x430;&#x43F;&#x440;&#x435;&#x442;&#x438;&#x442;&#x44C; &#x43F;&#x440;&#x435;&#x434;&#x43C;&#x435;&#x442;
+        &#x432; &#x440;&#x443;&#x43A;&#x430;&#x445; &#x43D;&#x430; &#x441;&#x435;&#x440;&#x432;&#x435;&#x440;&#x435;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>/bound add 0</code>
+      </td>
+      <td style="text-align:left">&#x417;&#x430;&#x43F;&#x440;&#x435;&#x442;&#x438;&#x442;&#x44C; &#x43F;&#x440;&#x435;&#x434;&#x43C;&#x435;&#x442;
+        &#x432; &#x440;&#x443;&#x43A;&#x430;&#x445; &#x43D;&#x430; &#x432;&#x441;&#x435;&#x445;
+        &#x441;&#x435;&#x440;&#x432;&#x435;&#x440;&#x430;&#x445;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><code>/pTime [&#x43D;&#x438;&#x43A;] @[&#x432;&#x440;&#x435;&#x43C;&#x44F;]</code>
+        </p>
+        <p><code>/pTime Thor @12:00</code>
+        </p>
+      </td>
+      <td style="text-align:left">&#x41E;&#x441;&#x442;&#x430;&#x43D;&#x43E;&#x432;&#x438;&#x442;&#x44C;
+        &#x432;&#x440;&#x435;&#x43C;&#x44F; &#x438;&#x433;&#x440;&#x43E;&#x43A;&#x443;</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
