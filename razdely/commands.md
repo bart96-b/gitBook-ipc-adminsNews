@@ -182,7 +182,7 @@
 
 | Команды + примеры | Описание |
 | :--- | :--- |
-| `WorldGuard` | Полный доступ к регионам и флагам |
+| \`\`[`WorldGuard`](//www.youtube.com/playlist?list=PLnpFYogdx9GVqaJGlovgxkSsgKUkArrmB)\`\` | Полный доступ к регионам и флагам |
 | `/gamemode [0 | 1]` | Смена режима игры |
 | `/heal` | Исцеление себя |
 | `/feed` | Пополнение еды себе |

@@ -13,5 +13,5 @@
 
 * [Авто-голосование за проект](dopolnitelno/avto-golosovanie-za-proekt.md)
 * [Гайды и подсказки](dopolnitelno/gaidy-i-podskazki.md)
-* [Баг-трекер Trello](dopolnitelno/bag-treker-trello.md)
+* [Баги и предложения](dopolnitelno/bag-treker-trello.md)
 
