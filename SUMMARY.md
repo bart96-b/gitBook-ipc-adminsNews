@@ -13,5 +13,9 @@
 
 * [Авто-голосование за проект](dopolnitelno/avto-golosovanie-za-proekt.md)
 * [Баги и предложения](dopolnitelno/bag-treker-trello.md)
-* [Гайды и подсказки](dopolnitelno/gaidy-i-podskazki.md)
+
+## Гайды и подсказки
+
+* [Закрывающийся инвентарь](gaidy-i-podskazki/zakryvayushiisya-inventaruntitled.md)
+* [Отделение ЛС от общего чата](gaidy-i-podskazki/otdelenie-ls-ot-obshego-chata.md)
 
