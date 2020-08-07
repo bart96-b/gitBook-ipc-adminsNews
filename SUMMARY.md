@@ -17,7 +17,6 @@
 ## Гайды и подсказки
 
 * [✓ Закрывающийся инвентарь](gaidy-i-podskazki/zakryvayushiisya-inventaruntitled.md)
-* [Отделение ЛС от общего чата](gaidy-i-podskazki/otdelenie-ls-ot-obshego-chata.md)
 * [Warp: небезопасная зона](gaidy-i-podskazki/warp-nebezopasnaya-zona.md)
 * [Macros](gaidy-i-podskazki/macros.md)
 
