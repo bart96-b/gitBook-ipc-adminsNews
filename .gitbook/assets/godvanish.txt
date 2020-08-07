@@ -1,0 +1,39 @@
+Отображение режима VANISH на экране:
+Создаём 2 ярлыка с названиями vanish (в ingame) и vanish1 (в inchat)
+OnChat:
+$${ifmatches(%CHATCLEAN%,"You have vanished. Poof.);
+SETLABEL(v1,"&3VANISH &8- &aON");
+SETLABEL(v2,"&3VANISH &8- &aON");
+ENDIF;
+ifmatches(%CHATCLEAN%,"You have joined vanished. To appear: /vanish);
+SETLABEL(v1,"&3VANISH &8- &aON");
+SETLABEL(v2,"&3VANISH &8- &aON");
+ENDIF;
+ifmatches(%CHATCLEAN%,"You have become visible.);
+SETLABEL(v1,"&4VANISH &8- &cOFF");
+SETLABEL(v2,"&4VANISH &8- &cOFF");
+ENDIF;}$$
+OnJoinGame:
+$${SETLABEL(v1,"&4VANISH &8- &cOFF");
+SETLABEL(v2,"&4VANISH &8- &cOFF");}$$
+
+
+
+
+
+
+
+
+Отображение режима GOD на экране:
+
+Версия 2:
+Создаём 2 ярлыка с названиями god (в ingame) и god1 (в inchat)
+В OnChat:
+$${ifmatches(%CHATCLEAN%,"\[?\] Режим бессмертия успешно включен!);
+SETLABEL(g1,"&3GOD &8- &aON");
+SETLABEL(g2,"&3GOD &8- &aON");
+ENDIF;
+ifmatches(%CHATCLEAN%,"\[?\] Режим бессмертия успешно выключен!);
+SETLABEL(g1,"&4GOD &8- &cOFF");
+SETLABEL(g2,"&4GOD &8- &cOFF");
+ENDIF;}$$
