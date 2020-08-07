@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [✓ Welcome](README.md)
 
 ## Основные разделы <a id="razdely"></a>
 
@@ -17,7 +17,7 @@
 ## Гайды и подсказки
 
 * [✓ Закрывающийся инвентарь](gaidy-i-podskazki/zakryvayushiisya-inventaruntitled.md)
-* [Warp: небезопасная зона](gaidy-i-podskazki/warp-nebezopasnaya-zona.md)
+* [✓ Warp: небезопасная зона](gaidy-i-podskazki/warp-nebezopasnaya-zona.md)
 * [Macros](gaidy-i-podskazki/macros.md)
 
 ## От автора авторам

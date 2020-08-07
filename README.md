@@ -1,4 +1,4 @@
-# Welcome
+# ✓ Welcome
 
 ![](.gitbook/assets/image.png)
 
