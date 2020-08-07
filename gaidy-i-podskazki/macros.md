@@ -1,4 +1,4 @@
-# Macros
+# \[dev\] Macros
 
 {% hint style="warning" %}
 Скрипты устарели и требуют доработки
@@ -10,7 +10,7 @@
 
 ## Отделение ЛС от общего чата 
 
-
+[https://youtu.be/WmBvSoZj3DQ](https://youtu.be/WmBvSoZj3DQ)
 
 ## Мат-фильтр
 
