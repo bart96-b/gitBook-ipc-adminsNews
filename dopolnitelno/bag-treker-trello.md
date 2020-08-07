@@ -38,7 +38,27 @@
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
+В описании для лучшей наглядности вы можете использовать язык разметки [Markdown](//help.trello.com/article/821-using-markdown-in-trello)
 
+{% tabs %}
+{% tab title="Markdown" %}
+```text
+**Мод:** Tinkers' Construct
+**Блок:** `<TConstruct:SearedBlock>`
+
+Когда пытаешься поставить данным блок в мире, игра крашится
+```
+{% endtab %}
+
+{% tab title="Результат" %}
+**Мод:** Tinkers' Construct  
+**Блок:** `<TConstruct:SearedBlock>`
+
+Когда пытаешься поставить данным блок в мире, игра крашится
+{% endtab %}
+{% endtabs %}
+
+Для включения режима расширенных подсказок, воспользуйтесь сочетанием клавиш `F3` + `H`. Подробнее про про данные режими можно прочитать в гугле или [wiki](//minecraft-ru.gamepedia.com/Экран_отладки).
 
 ### Удаление задачи
 
