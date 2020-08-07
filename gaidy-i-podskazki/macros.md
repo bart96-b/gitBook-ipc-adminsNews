@@ -1,5 +1,9 @@
 # Macros
 
+{% hint style="warning" %}
+Если в редакторе в Minecraft кириллица отображается вопросиками, то необходимо сохранить файл в кодировке `Windows-1251`
+{% endhint %}
+
 ## Разделение 
 
 
@@ -15,12 +19,12 @@
 
 {% tabs %}
 {% tab title="Установка" %}
-Поместить файл в `.iPlayCraft/updates/<сервер>/liteconfig/common/macros`  
+Поместить файл `tree.txt` в `.iPlayCraft/updates/<сервер>/liteconfig/common/macros`  
 В игре в событие `OnChat` написать `$$<tree.txt>`
 
-{% file src="../.gitbook/assets/tee.txt" %}
+{% file src="../.gitbook/assets/tee.txt" caption="Скачать tree.txt" %}
 
-Если в редакторе в Minecraft кириллица отображается вопросиками, то сохраните файл в кодировке `Windows-1251`
+Файлы с логами будут в `.iPlayCraft/updates/<сервер>/liteconfig/common/macros/logs`
 {% endtab %}
 
 {% tab title="Исходный код" %}
