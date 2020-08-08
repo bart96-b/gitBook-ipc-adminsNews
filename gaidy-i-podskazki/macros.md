@@ -1,3 +1,7 @@
+---
+description: В разработке
+---
+
 # \[dev\] Macros
 
 {% hint style="warning" %}
