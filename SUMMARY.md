@@ -5,7 +5,7 @@
 ## Основные разделы <a id="razdely"></a>
 
 * [✓ Ответственные на проекте](razdely/responsible-for-the-project.md)
-* [Общие положения](razdely/general-provisions.md)
+* [✓ Общие положения](razdely/general-provisions.md)
 * [✓ Наказания](razdely/punishments.md)
 * [✓ Команды](razdely/commands.md)
 
@@ -18,5 +18,7 @@
 
 * [✓ Закрывающийся инвентарь](gaidy-i-podskazki/zakryvayushiisya-inventaruntitled.md)
 * [✓ Warp: небезопасная зона](gaidy-i-podskazki/warp-nebezopasnaya-zona.md)
+* [\[dev\] Минимальные цены](gaidy-i-podskazki/dev-minimalnye-ceny.md)
+* [\[dev\] Crash-reports](gaidy-i-podskazki/dev-crash-reports.md)
 * [\[dev\] Macros](gaidy-i-podskazki/macros.md)
 
