@@ -6,8 +6,8 @@
 
 * [✓ Ответственные на проекте](razdely/responsible-for-the-project.md)
 * [✓ Общие положения](razdely/general-provisions.md)
-* [✓ Преступления и наказания](razdely/punishments.md)
 * [✓ Команды](razdely/commands.md)
+* [✓ Преступления и наказания](razdely/punishments.md)
 
 ## Дополнительно
 
