@@ -47,6 +47,14 @@
 **Блок:** `<TConstruct:SearedBlock>`
 
 Когда пытаешься поставить данным блок в мире, игра крашится
+
+```
+Description: Ticking entity
+
+java.lang.NullPointerException: Ticking entity
+    at net.minecraft.potion.PotionEffect.func_76455_a(PotionEffect.java:105)
+    at net.minecraft.entity.EntityLivingBase.func_70679_bo(EntityLivingBase.java:524)
+```
 ```
 {% endtab %}
 
@@ -55,6 +63,14 @@
 **Блок:** `<TConstruct:SearedBlock>`
 
 Когда пытаешься поставить данным блок в мире, игра крашится
+
+```text
+Description: Ticking entity
+
+java.lang.NullPointerException: Ticking entity
+    at net.minecraft.potion.PotionEffect.func_76455_a(PotionEffect.java:105)
+    at net.minecraft.entity.EntityLivingBase.func_70679_bo(EntityLivingBase.java:524)
+```
 {% endtab %}
 {% endtabs %}
 
